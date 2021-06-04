@@ -11,7 +11,8 @@
 This repository is full of automations that will make some tedious daily tasks easier and faster.
 
 ## language used till now
-- Python 🐍
+- Python
+- C++
 - Java Script
 
 ( contributions accepted in all languges)
@@ -22,7 +23,7 @@ This repository is full of automations that will make some tedious daily tasks e
 3. [Random Quiz Generator](https://github.com/Arsenic-ATG/Awesome-Automations/tree/master/Automations/Generating%20Random%20Quiz%20Files)
 4. [Automated Github-login](https://github.com/Arsenic-ATG/Awesome-Automations/tree/master/Automations/login-github)
 5. [Automated process of creating a new project with GitHub](https://github.com/Arsenic-ATG/Awesome-Automations/tree/master/Automations/github-create-repo)
-
+6. [Paint With UG](https://github.com/Arsenic-ATG/Awesome-Automations/tree/master/Automations/Paint%20With%20UG)
 ## List of more cool Automations with their own repository
 1. 🌐 [Map-It](https://github.com/Arsenic-ATG/Map-It)
 2. 🌐 [“I’m feeling lucky” google Search](https://github.com/Arsenic-ATG/I-am-Feeling-Lucky)
@@ -45,8 +46,22 @@ There are many ways to contribute to this repository :-
 
 ## Don't forget to give this repository a star ⭐️ if you like these automation 😅.
 
+## Contributors ✨
+
+Thanks goes to these wonderful people.
+
+<table>
+	<tr>
+		<td>
+			<a href="https://github.com/Arsenic-ATG/Awesome-Automations/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Arsenic-ATG/Awesome-Automations" />
+</a>
+		</td>
+	</tr>
+</table>
+
 ## License
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
 - **[MIT license](http://opensource.org/licenses/mit-license.php)**
-- Copyright 2015 © <a href="https://github.com/Arsenic-ATG" target="_blank">Ankur Saini</a>.
+- Copyright 2020 © <a href="https://github.com/Arsenic-ATG" target="_blank">Ankur Saini</a>.
